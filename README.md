@@ -75,7 +75,7 @@ O front deve consumir os dados reais assim que o back estiver pronto.
 2. Clone o repositório da **sua conta**:
 
    ```shell
-   git clone https://github.com/seu-usuario/quizzods-frontend
+   git clone https://github.com/estartandodevs-course/QuizzOds-Frontend-TCC-2025.git
    ```
 
 3. Instale as dependências:
