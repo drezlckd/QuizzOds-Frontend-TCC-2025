@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding : 8px 16px;
+    background-color: #FFFFFF;
+    border: 1px;
+    box-sizing: border-box;
+}
+.header__avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: absolute-infinity;
+    background-color: #FFFFFF;
+}
+.header__actions {
+    width: 24px;
+    height: 24px;
+}
