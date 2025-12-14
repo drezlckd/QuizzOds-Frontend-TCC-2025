@@ -1,0 +1,12 @@
+.list {
+    display : flex;
+    flex-direction: column;
+
+    width: 100%;
+    max-width: 440px;
+    flex: 1;
+
+    padding-left: 24px;
+    padding-right: 24px;
+    gap: 12px;
+}
